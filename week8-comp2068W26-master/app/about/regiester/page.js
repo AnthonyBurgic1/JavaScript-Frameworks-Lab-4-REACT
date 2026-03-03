@@ -18,7 +18,7 @@ export default function Register() {
           <label>Password:</label>
           <input type="password" name="password" required />
         </div>
-
+<p></p>
         <button type="submit">Register</button>
       </form>
     </div>
